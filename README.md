@@ -1,4 +1,4 @@
-# Git-Branching-Tutorial
+# Git Branching Tutorial
 Welcome to this Git Branching Tutorial repository! This repo is designed to help you practice:
 
 1. Forking and Cloning a Git repository  
